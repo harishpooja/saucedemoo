@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-30T14:38:52 IST" name="Suite" finished-at="2022-05-30T14:39:05 IST" duration-ms="13457">
+    <groups>
+    </groups>
+    <test started-at="2022-05-30T14:38:52 IST" name="Test" finished-at="2022-05-30T14:39:05 IST" duration-ms="13457">
+      <class name="com.Saucedemo.TestClasses.TC01LogInFunctionality">
+        <test-method signature="LogInFunctionalityTest()[pri:0, instance:com.Saucedemo.TestClasses.TC01LogInFunctionality@1b1426f4]" started-at="2022-05-30T14:38:52 IST" name="LogInFunctionalityTest" finished-at="2022-05-30T14:39:05 IST" duration-ms="13384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInFunctionalityTest -->
+      </class> <!-- com.Saucedemo.TestClasses.TC01LogInFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
